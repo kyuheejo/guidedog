@@ -6,6 +6,8 @@ GuideDog is an AI/ML-based mobile app designed to assist the lives of the visual
   2) Describes the scene around you upon command
   3) Warns you if there is an obstacle in front of you
 
+Check out this demo [video](https://www.youtube.com/watch?v=FhVWJ29tjSA) to learn more about our app!
+
 <h4>Android App</h4> 
   
   * UI/UX 
