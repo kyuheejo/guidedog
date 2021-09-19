@@ -1,4 +1,6 @@
 # Guidedog
+Authors: [Kyuhee Jo](kjo3@jhu.edu), [Steven Gunarso](y_steven_gunarso@berkeley.edu), [Jacky Wang](jwang464@jhu.edu), [Raghav Sharma](raghavatri312@gmail.com)
+
 GuideDog is an AI/ML-based mobile app designed to assist the lives of the visually impaired, 100% voice-controlled. You may as well think of it as "speaking guide dog," as the name suggests. It has three key features based on the scene captured by your mobile phone:
   1) Reads text upon command
   2) Describes the scene around you upon command
