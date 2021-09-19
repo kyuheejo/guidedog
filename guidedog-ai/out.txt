@@ -1,0 +1,3 @@
+Number of data used: 82783
+Training set: 331288, 331288, 
+  Validation set: 82825, 82825

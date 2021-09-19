@@ -1,0 +1,8 @@
+.idea
+venv/
+GCPCRED.json
+*.jpeg
+*.jpg
+.DS_Store
+env/
+.env
