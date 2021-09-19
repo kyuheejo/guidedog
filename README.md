@@ -16,7 +16,7 @@ GuideDog is an AI/ML-based mobile app designed to assist the lives of the visual
     * ML Kit object detection and tracking api
     * TensorFlow Lite MobileNet Image Classification Model   
 
-![image](https://user-images.githubusercontent.com/52928325/133925105-7bd1132e-0d78-4df0-9e4d-fda0db31b97b.png)
+![image](https://user-images.githubusercontent.com/52928325/133925137-7d486496-7ab8-425a-8f86-94324ecc6ccd.png)
 
 <h4>Backend</h4>
   
@@ -27,8 +27,10 @@ GuideDog is an AI/ML-based mobile app designed to assist the lives of the visual
   * Deployment
     * Google App Engine
     * fast central API with different endpoints   
+
+![image](https://user-images.githubusercontent.com/52928325/133925105-7bd1132e-0d78-4df0-9e4d-fda0db31b97b.png)
  
-![image](https://user-images.githubusercontent.com/52928325/133925137-7d486496-7ab8-425a-8f86-94324ecc6ccd.png)
+
 
 <h4> Image Captioning </h4>
 
